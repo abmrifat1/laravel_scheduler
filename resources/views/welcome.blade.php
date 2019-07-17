@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Scheduler
+                    Laravel Zizaco/Entrust Package
                 </div>
 
                 <div class="links">
