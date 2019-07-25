@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/laravel_scheduler.iml" filepath="$PROJECT_DIR$/.idea/laravel_scheduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ZizacoEntrust.iml" filepath="$PROJECT_DIR$/.idea/ZizacoEntrust.iml" />
     </modules>
   </component>
 </project>
