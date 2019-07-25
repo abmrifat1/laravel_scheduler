@@ -39,7 +39,7 @@ class everyMinute extends Command
      */
     public function handle()
     {
-        DB::table('test')->delete();
+        DB::table('test')->where('id','<','9')->delete();
         echo "operation successful";
     }
 }
